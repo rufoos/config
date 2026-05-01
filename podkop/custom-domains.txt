@@ -1,3 +1,5 @@
+cpubenchmark.net
+
 // google
 connectivitycheck.android.com
 connectivitycheck.gstatic.com
