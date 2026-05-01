@@ -1,0 +1,29 @@
+// google
+connectivitycheck.android.com
+connectivitycheck.gstatic.com
+android.clients.google.com
+android.googleapis.com
+android.apis.google.com
+redirector.gvt1.com
+redirector.gvt2.com
+gvt1.com
+gvt2.com
+accounts.google.com
+ota.googlezip.net
+ota-cache1.googlezip.net
+ota-cache3.googlezip.net
+dl.google.com
+dl-ssl.google.com
+
+// google meet
+meetings.clients6.google.com
+meetings.googleapis.com
+hangouts.googleapis.com
+meet.google.com
+stream.meet.google.com
+
+// oneplus OTA
+ota.oneplus.com
+h2os.com
+downloads.oneplus.com
+oneplus.net
