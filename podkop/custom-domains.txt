@@ -1,4 +1,5 @@
 cpubenchmark.net
+www.cpubenchmark.net
 
 // google
 connectivitycheck.android.com
@@ -120,3 +121,13 @@ wap.spotifycdn.com
 web-sdk-assets.spotifycdn.com
 wl.spotify.com
 www.spotify.com
+
+// claude code
+anthropic.com
+anthropic.qualtrics.com
+claude.ai
+claude.com
+claudeusercontent.com
+intercom.io
+intercomassets.com
+intercomcdn.com
