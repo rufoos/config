@@ -5,6 +5,7 @@ omarchy.org
 iso.omarchy.org
 stable-mirror.omarchy.org
 pkgs.omarchy.org
+akitaonrails.com
 
 // google
 connectivitycheck.android.com
