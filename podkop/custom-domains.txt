@@ -1,5 +1,8 @@
+// misc
 cpubenchmark.net
 www.cpubenchmark.net
+omarchy.org
+iso.omarchy.org
 
 // google
 connectivitycheck.android.com
