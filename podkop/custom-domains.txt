@@ -3,6 +3,8 @@ cpubenchmark.net
 www.cpubenchmark.net
 omarchy.org
 iso.omarchy.org
+stable-mirror.omarchy.org
+pkgs.omarchy.org
 
 // google
 connectivitycheck.android.com
