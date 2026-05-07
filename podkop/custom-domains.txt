@@ -7,6 +7,8 @@ stable-mirror.omarchy.org
 pkgs.omarchy.org
 akitaonrails.com
 cdn.azul.com
+avatars.githubusercontent.com
+private-user-images.githubusercontent.com
 
 // google
 connectivitycheck.android.com
