@@ -7,6 +7,7 @@ stable-mirror.omarchy.org
 pkgs.omarchy.org
 akitaonrails.com
 cdn.azul.com
+raw.githubusercontent.com
 avatars.githubusercontent.com
 private-user-images.githubusercontent.com
 
