@@ -216,3 +216,7 @@ usw2.preview.i.perplexity.ai
 www.perplexity.ai
 www.social.perplexity.ai
 yt.i.perplexity.ai
+
+// giveasia
+give.asia
+gives.co
