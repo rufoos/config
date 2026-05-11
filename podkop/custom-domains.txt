@@ -396,7 +396,6 @@ use.edgefonts.net
 adobetag.com
 ans.oobesas.adobe.com
 api.adobe.io
-adobeexchange.com/api
 amazonaws.com
 adobe.io
 cc-api-sharedproductions-prerelease.adobe.io
