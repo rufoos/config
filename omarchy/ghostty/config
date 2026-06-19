@@ -1,0 +1,38 @@
+command = /usr/bin/fish --login --interactive
+
+# Dynamic theme colors
+config-file = ?"~/.config/omarchy/current/theme/ghostty.conf"
+# config-file = ?"~/.config/ghostty/theme-symfonic.conf"
+
+# Font
+font-family = "Hack Nerd Font Mono"
+font-style = Regular
+font-size = 10
+
+# Window
+window-theme = ghostty
+window-padding-x = 14
+window-padding-y = 14
+confirm-close-surface=false
+resize-overlay = never
+gtk-toolbar-style = flat
+
+# Cursor styling + SSH session terminfo
+# (all shell integration options must be passed together)
+shell-integration-features = no-cursor,ssh-env
+
+# Keyboard bindings
+keybind = alt+w=close_surface
+keybind = alt+right=goto_split:right
+keybind = ctrl+t=new_tab
+keybind = alt+down=goto_split:bottom
+keybind = alt+left=goto_split:left
+keybind = alt+up=goto_split:top
+
+# Slowdown mouse scrolling
+mouse-scroll-multiplier = 0.95
+
+# Fix general slowness on hyprland (https://github.com/ghostty-org/ghostty/discussions/3224)
+async-backend = epoll
+
+copy-on-select = clipboard
